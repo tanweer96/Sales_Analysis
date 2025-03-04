@@ -26,7 +26,7 @@ The Sales Analysis Dashboard provides an interactive and insightful visualizatio
 
 
 ## Steps
-## Card Visuals
+## A. Card Visuals
 
 ### 1️⃣ Total Profit (💲 16.89M)
     Represents the overall profit earned after deducting costs from total sales.
@@ -53,34 +53,34 @@ The Sales Analysis Dashboard provides an interactive and insightful visualizatio
     Helps track raw sales performance before any deductions.
     Comparing gross sales with total sales provides insights into how much revenue is lost due to discounts and returns.
 
-### Bar Chart (Gross Sales by Country)
+### B. Bar Chart (Gross Sales by Country)
 🔹 Purpose: Displays total gross sales across different countries.  
 🔹 Insights:
 The USA ($27.27M) has the highest sales, followed by Canada, France, Germany, and Mexico.
 Helps identify the top-performing regions and potential areas for market expansion.
 A lower sales figure in certain countries may indicate the need for better marketing strategies or product adaptation.
 
-### Donut Chart (Units Sold by Segment)
+### C. Donut Chart (Units Sold by Segment)
 🔹 Purpose: Shows the distribution of total units sold across different business segments.  
 🔹 Insights:Enterprise (41.81%) dominates in sales, followed by Midmarket, Government, Small Business, and Channel Partners.
 Helps businesses understand which segment contributes the most to revenue.
 Companies can use this insight to focus marketing and sales efforts on high-performing segments.
-### Scatter Plot (Discounts & Profit by Gross Product)
+### D. Scatter Plot (Discounts & Profit by Gross Product)
 🔹 Purpose: Displays the relationship between discounts offered and profit earned for different products.  
 🔹 Insights: Products like Montana and Paseo show varying discount levels but different profit margins.
 Helps analyze whether higher discounts lead to increased profits or affect margins negatively.
 Assists in discount optimization strategies to ensure profitability while maintaining sales volume.
-### Bar Chart (Gross Sales by Product)
+### E. Bar Chart (Gross Sales by Product)
 🔹 Purpose: Shows gross sales distribution across different products.  
 🔹 Insights: Paseo ($36M) is the highest-selling product, followed by VTT ($22M) and Velo ($20M).
 Helps identify best-selling products and optimize stock levels accordingly.
 If a product has low sales, businesses may consider promotional offers or pricing adjustments.
-### Line Chart (Sales & Profit by Month)
+### F. Line Chart (Sales & Profit by Month)
 🔹 Purpose: Analyzes sales and profit trends over time (monthly performance).  
 🔹 Insights: Sales peak in October, November, and December, indicating seasonal demand (possibly due to holidays or promotions).
 A decline from January to March suggests lower demand in these months.
 Helps in inventory planning and marketing campaigns for future months based on past trends.
-### Column Chart (Gross Sales & Profit by Year)
+### G. Column Chart (Gross Sales & Profit by Year)
 🔹 Purpose: Shows total gross sales and profit across different years.  
 🔹 Insights: 2014 ($99M sales, $13M profit) outperformed 2013 ($29M sales, $4M profit).
 Indicates business growth over time and helps assess annual performance improvements.
